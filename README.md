@@ -1,6 +1,6 @@
 # Youtube-Data-Scrapping-End-to-End-Project
 
-*By Komal Diwe*
+*By Sahil Josan*
 <h3> Introduction </h3>
 
 This is a simple streamlit dashboard, which analyses each video.
